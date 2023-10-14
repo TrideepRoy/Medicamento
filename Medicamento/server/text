@@ -1,0 +1,7 @@
+bcrypt : converts a password to a key so that it wont be cracked
+bodyparser: converts the file in json format
+dotenv : a file stores important passwords urls which is not shared elsewhere
+express : to set up the router
+jsonwebtoken: generates a token from the id password which while login is matched if valid then 
+                login is granted
+mongoose: connect to the database
